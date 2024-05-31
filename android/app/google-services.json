@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816577151451",
+    "project_id": "techtrake-ea7a0",
+    "storage_bucket": "techtrake-ea7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816577151451:android:db860e6f32036563e8e7fe",
+        "android_client_info": {
+          "package_name": "com.example.teachtrake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNt0qR_TdvgySJzF-JYNiNQ2y7YDjL--8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
