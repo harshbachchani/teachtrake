@@ -15,7 +15,6 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final controller = Get.put(StudentController());
     final updateController = Get.put(UpdateController());
-    final userController = Get.put(UserController());
     return Scaffold(
       body: SingleChildScrollView(
         child: Padding(
